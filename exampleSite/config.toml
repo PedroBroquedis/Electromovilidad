@@ -2,7 +2,7 @@ baseURL = "http://TallerEM.netlify.com"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "Electromovilidad Grupo 3"
+title = "Electromovilidad"
 [[menu.main]]
 URL = "about"
 name = "About"
